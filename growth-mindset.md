@@ -13,10 +13,10 @@ It shows how choosing a growth mindset helps you handle challenges better and ke
 ## Question: What is the Internal Locus of Control? What is the key point in the video?
 
 ### Internal Locus of Control (definition)  
-An internal locus of control is the belief that your own actions — your effort, decisions and behavior — shape the outcomes in your life, rather than luck or external circumstances. :contentReference[oaicite:0]{index=0}
+An internal locus of control is the belief that your own actions — your effort, decisions and behavior — shape the outcomes in your life, rather than luck or external circumstances.
 
 ### Key Point from the Video  
-The video argues that having an internal locus of control (believing results come from your effort rather than outside factors) helps you stay motivated and take consistent action, even when faced with difficulties. :contentReference[oaicite:1]{index=1}
+The video argues that having an internal locus of control (believing results come from your effort rather than outside factors) helps you stay motivated and take consistent action, even when faced with difficulties.
 
 ---
 
